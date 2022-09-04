@@ -10,9 +10,16 @@ align-items: center;
 & caption {
 
 font-family: system-ui;
+font-weight: bold;
+font-size: 18px;
 }
 & td {
 font-family: system-ui;
+font-weight: medium;
+font-size: 14px;
+}
+& tr:nth-child(odd) td {
+    background-color: #67676a;
 }
 `;
 
