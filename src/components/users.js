@@ -18,7 +18,7 @@ font-family: system-ui;
 font-weight: medium;
 font-size: 14px;
 }
-& tr:nth-child(odd) td {
+& tr:nth-child(odd) {
     background-color: #67676a;
 }
 `;
