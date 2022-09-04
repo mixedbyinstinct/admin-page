@@ -19,7 +19,7 @@ font-weight: medium;
 font-size: 14px;
 }
 & tr:nth-child(odd) {
-    background-color: #67676a;
+    background-color: #b3b3b4;
 }
 `;
 
